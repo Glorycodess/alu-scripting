@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
-#Glorycodes here again x3 
+#Glorycodes herei again x3 
 
-puts ARGV[0].scan(/hn?tn/).join
+puts ARGV[0].scan(/hb?tn/).join
